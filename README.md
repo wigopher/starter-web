@@ -8,8 +8,10 @@ An introduction, what are you looking for?
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.  More text.
 
 ## Deployment
+
+What would you want to deploy this?  It's nothing.
 
 ## How to Contribute
