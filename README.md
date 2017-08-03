@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work.  There is no secret sauc
 
 ## Introduction
 
+An introduction, what are you looking for?
+
 ## Purpose
 
 Sample website with plenty of files for demos
