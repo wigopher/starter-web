@@ -15,3 +15,6 @@ Sample website with plenty of files for demos.  More text.
 What would you want to deploy this?  It's nothing.
 
 ## How to Contribute
+
+###Copyright
+Git Copyright Training
