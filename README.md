@@ -16,5 +16,7 @@ What would you want to deploy this?  It's nothing.
 
 ## How to Contribute
 
+Fork dat repo.  Get dat pull request
+
 ###Copyright
 Git Copyright Training
