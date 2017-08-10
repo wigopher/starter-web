@@ -19,4 +19,4 @@ What would you want to deploy this?  It's nothing.
 Fork dat repo.  Get dat pull request
 
 ### Copyright
-Git Copyright Training, and adding in more lines for rebasing
+Git Copyright Training, and adding in more lines for rebasing, with more changes from myfeature branch. 
