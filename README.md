@@ -18,5 +18,5 @@ What would you want to deploy this?  It's nothing.
 
 Fork dat repo.  Get dat pull request
 
-###Copyright
-Git Copyright Training
+### Copyright
+Git Copyright Training, and adding in more lines for rebasing
