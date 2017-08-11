@@ -8,6 +8,7 @@
 # THANKS
 
     Jason Taylor
+    Git stash example
 
 # TECHNOLOGY COLOPHON
 
